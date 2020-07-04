@@ -63,7 +63,7 @@ a:hover {
 
 .page-cover:after {
     content: "";
-    background: linear-gradient(to left, #04A5E4, #0B3947);
+    background: linear-gradient(to left, #04A5E4, #04151a);
     position: absolute;
     left: 0;
     right: 0;
