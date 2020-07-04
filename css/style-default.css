@@ -71,3 +71,11 @@ a:hover {
     bottom: 0;
     opacity: 0.7;
 }
+
+.image-blurred-edge {
+    background-image: url('../img/logo_big.png');
+    width: 200px;
+    height: 200px;
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    box-shadow: 0 0 8px 8px white inset;
+}
